@@ -1,0 +1,44 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+.navbar.navbar-expand-sm.navbar-light {
+    margin-bottom: 60px;
+}
+a.navbar-brand {
+    font-family: 'Inconsolata', monospace;
+}
+body {
+    margin-bottom: 75px;
+}
+.card {
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 10px;
+}
+.card-header {
+    font-family: 'Inconsolata', monospace;
+}
+.row.header {
+    padding-left: 15px;
+    margin-bottom: 20px;
+    font-family: 'Inconsolata', monospace;
+}
+img {
+    margin-bottom: 15px;
+}
+img.resize {
+    width: 350px;
+    height: auto;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+}
+button {
+    float: right;
+}
